@@ -1,0 +1,16 @@
+id,name,name.type
+s01,Las Vegas,1
+s02,New York,1
+s03,Orlando,1
+s04,San Francisco,1
+s05,San Diego,1
+s06,Chicago,1
+s07,popular_entertainment_casino,2
+s08,popular_activity_dining,2
+s09,popular_food_food,2
+s10,popular_social_restaurants,2
+s11,popular_social_familyfriendly,2
+s12,popular_activity_walking,2
+s13,popular_social_bars,2
+s14,popular_shopping_shopping,2
+s15,popular_naturalfeature_beach,2
